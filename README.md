@@ -1,7 +1,7 @@
 # loan_prediction
 ML loan prediction system
   Bank Loan Prediction System
-
+![homepage_](https://github.com/raphsang/loan_prediction/blob/main/homepage_.png?raw=true)
 ## Usage:-
 
 - Clone my repository.
